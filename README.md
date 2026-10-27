@@ -1,4 +1,4 @@
-\# Hevy Exercise List
+# Hevy Exercise List
 
 
 
